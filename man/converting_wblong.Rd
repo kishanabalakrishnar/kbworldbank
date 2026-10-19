@@ -19,6 +19,6 @@ Converts a World Bank dataset from the armed conflict
 paper into a long dataset format
 }
 \examples{
-converting_wblong(maternal_mortalitydf, "maternal_mortality")
+converting_wblong(maternal_mortality, "maternal_mortality")
 
 }

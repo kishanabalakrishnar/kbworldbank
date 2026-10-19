@@ -31,4 +31,4 @@
 #' @source Jawad M, Hone T, Vamos EP, Cetorelli V, Millett C (2021) Implications of armed conflict for 
 #' maternal and child health: A regression analysis of data from 181 countries for 2000–2019. 
 #' PLoS Med 18(9): e1003810. https://doi.org/10.1371/journal.pmed.1003810
-"maternal_mortalitydf"
+"maternal_mortality"

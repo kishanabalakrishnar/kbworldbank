@@ -10,7 +10,8 @@ Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.1
 Imports: 
     dplyr,
-    tidyr
+    tidyr,
+    tidyselect
 Depends: 
     R (>= 3.5)
 LazyData: true
