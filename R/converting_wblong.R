@@ -16,3 +16,4 @@ converting_wblong <- function(df, var){
   values_to = var) |> mutate(year = as.numeric(year)) |> 
     select(iso, year, all_of(var))
 }
+
