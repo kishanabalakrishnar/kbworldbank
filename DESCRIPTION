@@ -4,10 +4,15 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Kishana", "Balakrishnar", , "kishana2911@gmail.com", role = c("aut", "cre"))
 Description: Tools for working with world bank datasets from armed conflict. 
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.1
 Imports: 
     dplyr
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
