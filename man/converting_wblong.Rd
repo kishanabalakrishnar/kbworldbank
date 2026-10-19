@@ -15,8 +15,7 @@ converting_wblong(df, var)
 A dataframe containing the World Bank dataset in long format
 }
 \description{
-Converts a World Bank dataset from the armed conflict
-paper into a long dataset format
+Converts a World Bank dataset from the armed conflict paper into a long dataset format
 }
 \examples{
 converting_wblong(maternal_mortality, "maternal_mortality")
