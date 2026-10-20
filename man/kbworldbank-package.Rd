@@ -6,8 +6,18 @@
 \alias{kbworldbank-package}
 \title{kbworldbank: Cleaning World Bank Datasets}
 \description{
-Tools for working with world bank datasets from armed conflict.
+Tools for working with World Bank datasets from the armed conflict paper.
 }
+\section{Functions}{
+
+\code{\link[=converting_wblong]{converting_wblong()}} converts a wide World Bank dataset to long format.
+}
+
+\section{Datasets}{
+
+\link{maternal_mortality} contains World Bank maternal mortality data.
+}
+
 \seealso{
 Useful links:
 \itemize{
